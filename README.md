@@ -1,5 +1,5 @@
 This is a project to ReDesign robot base.
-We worked on some analysis for the design, and Designed the robot online
+We worked on some analysis for the design, and Designed it online
  with 'https://www.tinkercad.com'
 
 Files:
